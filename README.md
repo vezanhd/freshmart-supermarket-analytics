@@ -18,9 +18,13 @@ Data dikelola menggunakan **PostgreSQL** sebagai database, dianalisis menggunaka
 
 ### Page 1 — Dashboard Performance Overview
 Ringkasan performa bisnis secara keseluruhan mencakup KPI utama, tren bulanan, performa cabang, kategori produk, dan segmen customer.
+<img width="1515" height="848" alt="image" src="https://github.com/user-attachments/assets/e5e91433-f3f1-4373-9c58-b68a9202d103" />
+
 
 ### Page 2 — Dashboard Analisis Detail
 Analisis mendalam mencakup Top 10 produk terlaris, profit margin per kategori, performa supplier, dan breakdown revenue per cabang vs kategori.
+<img width="1513" height="851" alt="image" src="https://github.com/user-attachments/assets/e0e5fac0-b9dc-4f27-a474-af389752819b" />
+
 
 ---
 
@@ -47,11 +51,11 @@ dim_customer ────┘
 
 | Metrik | Nilai |
 |---|---|
-| Total Revenue | Rp 784 Juta |
-| Total Profit | Rp 270 Juta |
-| Profit Margin | 34.39% |
-| Total Transaksi | 18K |
-| Total Qty Terjual | 42K |
+| Total Revenue | Rp 784.1 Juta |
+| Total Profit | Rp 269.6 Juta |
+| Profit Margin | 34% |
+| Total Transaksi | 17.95K |
+| Total Qty Terjual | 41.84K |
 | Avg Transaction Value | Rp 43.69K |
 
 **Top Findings:**
